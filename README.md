@@ -1,1 +1,1 @@
-# tic-tac-toe
+tic-tac-toe is a digital board game where you take turns picking a spot on the 3×3 board by entering a number 1 through 9. After each move, the game checks if there's a winner or a tie. It keeps switching between players until someone wins or all spaces are filled.
